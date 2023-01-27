@@ -1,4 +1,4 @@
-## A simple user registration and login form hobbled together from the following tutorials:
+A simple user registration and login form hobbled together from the following tutorials:
 
 https://medium.com/@prashantramnyc/a-simple-registration-and-login-backend-using-nodejs-and-mysql-967811509a64
 
