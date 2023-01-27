@@ -1,6 +1,11 @@
 ## A simple user registration and login form hobbled together from the following tutorials:
+
 https://medium.com/@prashantramnyc/a-simple-registration-and-login-backend-using-nodejs-and-mysql-967811509a64
+
 https://blog.logrocket.com/building-simple-login-form-node-js/
+(the source code in this repo is a modified clone of the code from this tutorial)
+
+
 https://www.vultr.com/docs/use-password-authentication-with-node-js-and-mysql/
 
 My sincerest thanks to the authors of these tutorials. 
